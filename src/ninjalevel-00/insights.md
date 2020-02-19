@@ -17,3 +17,9 @@ export PATH=$PATH:$GOROOT/bin
 ```
 
 `go env` commadn can be used to check the current setup.
+
+## Package Documentation
+
+golang.org is official go language and package information docuemntaiton, 
+Where godoc.org includes documentation of 3rd party and official packages for
+golang.
