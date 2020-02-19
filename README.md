@@ -1,3 +1,4 @@
 # GO Learning Projects
 
-- Ninja Level 1
+- Ninja Level 0
+  - Package Management, Dependency Management
