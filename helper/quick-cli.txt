@@ -1,0 +1,2 @@
+# Check installed path variables
+go env
