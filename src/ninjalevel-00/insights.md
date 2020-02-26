@@ -13,6 +13,13 @@ export GOBIN="$GOPATH/bin"
 # depends on the operating system
 export GOROOT=/usr/local/go/
 export PATH=$PATH:$GOROOT/bin
+
+# Alternative
+export GOROOT=$HOME/go
+export PATH=$PATH:$GOROOT/bin
+
+export GOPATH="$HOME/GoProjects"
+export GOBIN="$GOPATH/bin"
 ```
 
 `go env` commadn can be used to check the current setup.
