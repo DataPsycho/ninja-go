@@ -1,6 +1,9 @@
-# Ninja Level 01
+# Highlights
 
 - Package Mangement
+- Variable Decleration
+- Formating and Printing with fmt
+- User Defined Data Types
 
 ## Packages
 
